@@ -1,0 +1,11 @@
+{
+  "name": "format",
+  "version": "0.0.0",
+  "description": "formatting a variable string in go. for humans.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jossef/format.git"
+  },
+  "author": "jossef",
+  "license": "MIT"
+}
